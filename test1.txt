@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 247D-01EF
+
+ Directory of C:\Users\navee\Desktop\New folder
+
+02/22/2020  03:08 PM    <DIR>          .
+02/22/2020  03:08 PM    <DIR>          ..
+02/22/2020  03:08 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,151,734,272 bytes free
